@@ -1,2 +1,4 @@
-./venv
-./.idea
+MoviesRecommendationSystem/venv
+MoviesRecommendationSystem/.idea
+TitanicPredic/venv
+TitanicPredic/.idea
